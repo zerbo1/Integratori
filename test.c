@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-	printf("proviamo git tutti assieme!\n");
+	printf("sto provando git!\n");
 	return 0;
 }
